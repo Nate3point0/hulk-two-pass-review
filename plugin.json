@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hulk-two-pass-review",
+  "version": "1.0.0",
+  "description": "Professional two-pass review system for code, marketing copy, and sales funnels. Pass 1 audits structure and logic. Pass 2 audits polish and conversion mechanics. Outputs ranked fix lists with severity scoring.",
+  "author": "Ceepeezee",
+  "license": "MIT"
+}
